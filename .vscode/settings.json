@@ -7,8 +7,8 @@
     "breadcrumbs.symbolPath": "on",
     "editor.cursorStyle": "line",
     "editor.fontSize": 11,
-    "editor.cursorBlinking": "expand",
+    "editor.cursorBlinking": "blink",
     "editor.letterSpacing": 1,
-    "editor.inlayHints.enabled": "on",
-    "editor.guides.highlightActiveIndentation": true
+    "editor.inlayHints.enabled": "offUnlessPressed",
+    "editor.guides.highlightActiveIndentation": false
 }
