@@ -1,0 +1,14 @@
+{
+    "C_Cpp.default.compilerPath": "/usr/bin/clang",
+    "cmake.configureOnOpen": true,
+    "C_Cpp.errorSquiggles": "enabled",
+    "editor.foldingHighlight": true,
+    "breadcrumbs.enabled": true,
+    "breadcrumbs.symbolPath": "on",
+    "editor.cursorStyle": "line",
+    "editor.fontSize": 11,
+    "editor.cursorBlinking": "expand",
+    "editor.letterSpacing": 1,
+    "editor.inlayHints.enabled": "on",
+    "editor.guides.highlightActiveIndentation": true
+}
