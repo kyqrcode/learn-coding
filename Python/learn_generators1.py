@@ -8,6 +8,6 @@ def firstn_generator(n):
 		num += 1
 
 print(sum(firstn_generator(1000000)))
-print(sys.getsizeof(firstn_))
+print(sys.getsizeof(firstn_generator))
 
 #compared to a function with a list
